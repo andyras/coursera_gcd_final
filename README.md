@@ -1,0 +1,1 @@
+First the two data sets are read in separately, with subject and activity labels added as columns. Then the sets are merged.
